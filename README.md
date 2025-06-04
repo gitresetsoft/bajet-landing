@@ -1,73 +1,82 @@
-# Welcome to your Lovable project
+# Bajet
 
-## Project info
+A modern web application for tracking and properly allocating your monthly budget spending. Take control of your finances with an intuitive interface that helps you visualize where your money goes and plan for the future.
 
-**URL**: https://lovable.dev/projects/4786d3d5-ead4-4bb2-baa6-e2a211c4d512
+## Features
 
-## How can I edit this code?
+- **Monthly Budget Tracking** - Monitor your income and expenses month by month
+- **Smart Allocation** - Properly distribute your budget across different categories
+- **Spending Insights** - Visualize your spending patterns and identify areas for improvement
+- **Responsive Design** - Works seamlessly across desktop and mobile devices
+- **Real-time Updates** - See your budget changes instantly as you add transactions
 
-There are several ways of editing your application.
+## Tech Stack
 
-**Use Lovable**
+- **Frontend Framework**: React
+- **Build Tool**: Vite
+- **Styling**: Tailwind CSS
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4786d3d5-ead4-4bb2-baa6-e2a211c4d512) and start prompting.
+## Getting Started
 
-Changes made via Lovable will be committed automatically to this repo.
+### Prerequisites
 
-**Use your preferred IDE**
+- Node.js (version 16 or higher)
+- npm or yarn
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Installation
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/bajet.git
+   cd bajet
+   ```
 
-Follow these steps:
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+4. Open your browser and navigate to `http://localhost:5173`
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Available Scripts
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run lint` - Run ESLint
 
-**Edit a file directly in GitHub**
+## Contributing
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+We welcome contributions from the community! Here's how you can help:
 
-**Use GitHub Codespaces**
+1. **Fork the repository**
+2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
+3. **Make your changes** and test them thoroughly
+4. **Commit your changes**: `git commit -m 'Add some amazing feature'`
+5. **Push to the branch**: `git push origin feature/amazing-feature`
+6. **Open a Pull Request**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+### Contribution Guidelines
 
-## What technologies are used for this project?
+- Follow the existing code style and conventions
+- Write clear, descriptive commit messages
+- Add tests for new features when applicable
+- Update documentation as needed
+- Be respectful and constructive in discussions
 
-This project is built with:
+## License
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## How can I deploy this project?
+## Support
 
-Simply open [Lovable](https://lovable.dev/projects/4786d3d5-ead4-4bb2-baa6-e2a211c4d512) and click on Share -> Publish.
+If you encounter any issues or have questions, please [open an issue](https://github.com/yourusername/bajet/issues) on GitHub.
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Made with ❤️ by [Ambik Project](https://ambik.link)
