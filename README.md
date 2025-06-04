@@ -1,3 +1,7 @@
+
+
+<img src="https://repository-images.githubusercontent.com/995529140/258d08f1-5937-4dd1-9679-222dd26a0190" width="400">
+
 # Bajet
 
 A modern web application for tracking and properly allocating your monthly budget spending. Take control of your finances with an intuitive interface that helps you visualize where your money goes and plan for the future.
